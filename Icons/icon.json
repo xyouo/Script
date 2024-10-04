@@ -1,0 +1,30 @@
+{
+	"name": "小意の图标",
+	"description": "小意自用图标库",
+	"icons": [
+		{
+			"name": "GGBond",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/GGBond.png"
+		},
+		{
+			"name": "不挂科",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/BuGuaKe.png"
+		},
+		{
+			"name": "CSDN",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/CSDN.png"
+		},
+		{
+			"name": "哈啰",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/HaLuo.png"
+		},
+		{
+			"name": "WPS",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/WPS.png"
+		},
+		{
+			"name": "一刻相册",
+			"url": "https://raw.githubusercontent.com/xyouo/Script/master/Icons/ykxc.png"
+		}
+	]
+}
